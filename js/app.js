@@ -7,7 +7,7 @@ formulario.addEventListener('submit', async(e) =>{
 
 
 try {    
-    const respuesta = await fetch('https://sheet.best/api/sheets/929c4ddd-92b1-4848-b8bb-d0d782f71287', {
+    const respuesta = await fetch('https://sheet.best/api/sheets/5a6ac4ca-1962-4cd4-95bf-c6288621bc2d', {
         method: 'POST',
         mode: 'cors',
         headers: {
